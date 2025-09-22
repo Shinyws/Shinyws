@@ -1,4 +1,4 @@
-- Hi, I’m @Shinyws
-- I’m interested in programming / Video Game
+- Hi, I’m @Shinyws 
+- I love video game and my dream is to be a gameplay dev
 - Currently learning C++
 - https://guns.lol/shinyws
