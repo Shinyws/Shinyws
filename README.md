@@ -1,5 +1,5 @@
 - Hi, I’m @Shinyws 
 - I love video game and my goal is to be a gameplay dev
 - Currently learning C++ / C#
-- https://guns.lol/shinyws
+- https://guns.lol/diamond.
           - Might upload project if i found it good enough
