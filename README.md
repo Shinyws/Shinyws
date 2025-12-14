@@ -5,15 +5,13 @@
 
 <h3 align="left">Other Stuff..</h3>
 
-<h3 align="left">[Socials](https://guns.lol/sh1ny)</h3>
+
 <p align="left">
 </p>
 
 <p align="left">
   <a href="https://guns.lol/sh1ny" target="_blank" rel="noreferrer">Socials</a>
 </p>
-
-
 <p align="left">
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
