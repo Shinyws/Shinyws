@@ -9,8 +9,13 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <a href="https://guns.lol/sh1ny" target="_blank" rel="noreferrer">Socials</a>
+</p>
+
+
+<p align="left">
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
