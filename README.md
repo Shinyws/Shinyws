@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shinyws</h1>
+<h1 align="center">Hi , I'm Shinyws</h1>
 <h3 align="center">A passionate Gameplay Developper</h3>
 
 - 🌱 I’m currently learning **C++ C#**
