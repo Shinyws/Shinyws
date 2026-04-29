@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Shinyws</h1>
 <h3 align="center">Hello .</h3>
 
-- 🌱 I’m currently learning **C++ C#**
+- I’m currently learning **C++ C#**
 
 <h3 align="left">Other Stuff..</h3>
 
